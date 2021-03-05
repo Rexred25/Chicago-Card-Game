@@ -3,8 +3,8 @@
 A command line based card game that I made for two classes, software engineering and organization of programming languages
 
 Basically it is like Rummy 500
-  Runs
-    Any 4 or more cards in a row that share the same color and suit
+  * Runs
+      * Any 4 or more cards in a row that share the same color and suit
     Ex. 2, 3, 4, 5 of spades in red
   Set
     Any 3 or more cards that are the same rank, can be any color
